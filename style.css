@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+.travel {
+    text-align: center;
+}
+
+.navbar {
+    position: sticky;
+    width: 100%;
+    z-index: 3;
+    top: 0;
+}
+
+.movie_head {
+    height: 40%;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
